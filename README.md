@@ -30,16 +30,16 @@ a) Go in to root directory and run the following command (where .pom file locate
 
 b) You should see the following log:
 
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 109.4 sec
+    Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 109.4 sec
 
-Results :
+    Results :
 
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+    Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 
-[INFO] ------------------------------------------------------------------------
-[INFO] BUILD SUCCESS
-[INFO] ------------------------------------------------------------------------
-[INFO] Total time:  01:51 min
-[INFO] Finished at: 2022-09-07T17:26:38-05:00
-[INFO] ------------------------------------------------------------------------
+    [INFO] ------------------------------------------------------------------------
+    [INFO] BUILD SUCCESS
+    [INFO] ------------------------------------------------------------------------
+    [INFO] Total time:  01:51 min
+    [INFO] Finished at: 2022-09-07T17:26:38-05:00
+    [INFO] ------------------------------------------------------------------------
 
