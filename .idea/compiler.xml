@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cc_ui_mt" />
+        <module name="gravie_IKEA_UI" />
       </profile>
     </annotationProcessing>
   </component>
